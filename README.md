@@ -2,4 +2,4 @@
 Cyber Security Base 2020 Project I
 
 Project's description is in the "Project.docx" file.
-All the application's files are in "Project" directory.
+All the application's files are in "Project 1" directory.
